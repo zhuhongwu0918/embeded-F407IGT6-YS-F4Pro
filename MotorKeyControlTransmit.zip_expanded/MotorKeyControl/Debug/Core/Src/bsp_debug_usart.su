@@ -1,0 +1,5 @@
+bsp_debug_usart.c:35:6:bsp_HAL_UART_MspInit	40	static
+bsp_debug_usart.c:64:6:bsp_HAL_UART_MspDeInit	16	static
+bsp_debug_usart.c:87:6:MX_DEBUG_USART_Init	16	static
+stdio.h:214:5:fputc	16	static
+stdio.h:212:5:fgetc	24	static

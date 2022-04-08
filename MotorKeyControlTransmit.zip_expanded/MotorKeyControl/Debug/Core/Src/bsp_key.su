@@ -1,0 +1,6 @@
+bsp_key.c:23:18:KEY1_StateRead	8	static
+bsp_key.c:48:18:KEY2_StateRead	8	static
+bsp_key.c:73:18:KEY3_StateRead	8	static
+bsp_key.c:100:18:KEY4_StateRead	8	static
+bsp_key.c:127:18:KEY5_StateRead	8	static
+bsp_key.c:146:9:keyResponse	8	static

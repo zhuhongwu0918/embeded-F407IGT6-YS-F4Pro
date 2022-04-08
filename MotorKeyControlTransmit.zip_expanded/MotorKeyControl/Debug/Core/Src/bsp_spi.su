@@ -1,0 +1,11 @@
+bsp_spi.c:46:6:bsp_SystemClock_Config	88	static
+bsp_spi.c:94:6:bsp_SPIx_Init	8	static
+bsp_spi.c:118:6:bsp_HAL_SPI_MspInit	64	static
+bsp_spi.c:173:9:SPIx_ReadWriteByte	32	static
+bsp_spi.c:192:9:SPIx_Write_Reg	24	static
+bsp_spi.c:209:9:SPIx_Read_Reg	24	static
+bsp_spi.c:226:9:SPIx_Read_Buf	32	static
+bsp_spi.c:240:6:Si4432reset_IRQ_Reg	8	static
+bsp_spi.c:256:6:Si4432config	8	static
+bsp_spi.c:335:6:Si4432startRecieve	16	static
+bsp_spi.c:368:6:Si4432startTransmit	16	static

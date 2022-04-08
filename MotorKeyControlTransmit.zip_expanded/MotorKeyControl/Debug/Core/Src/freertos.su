@@ -1,0 +1,5 @@
+freertos.c:109:6:MX_FREERTOS_Init	8	static
+freertos.c:160:6:StartDefaultTask	16	static
+freertos.c:178:6:flashlight	16	static
+freertos.c:204:6:candrive_task	16	static
+freertos.c:228:6:beep	16	static
